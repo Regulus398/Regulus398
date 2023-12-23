@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Regulus398
-- 👀 I’m interested in fullstack web dwvelopment
+- 👋 Hi, I’m Balaro Ibrahim;
+- 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning html, css, javascript, node js
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
